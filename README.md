@@ -21,7 +21,7 @@ A simple and responsive React ToDo application built with 💙. It allows you to
 
 ## 📸 Preview
 
-*(Add a screenshot here if you'd like)*
+![image](https://github.com/user-attachments/assets/36642b27-bf7f-4d04-a2c1-ba22bc0ba004)
 
 ---
 
@@ -33,5 +33,4 @@ A simple and responsive React ToDo application built with 💙. It allows you to
 
 ---
 
-## 📂 Project Structure
 
